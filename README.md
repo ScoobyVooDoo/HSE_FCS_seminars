@@ -22,6 +22,6 @@
 
 ## Семинары:
 
-__Семинар 1.__ Введение в машинное обучение и основные бтблтотеки для анализа с данными.
+__Семинар 1.__ Введение в машинное обучение и основные библитотеки для анализа с данными.
 * [Презентация](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/presentation_sem1.pdf)
 * [Ipython notebook с семинара (автор: Зиннурова Эльвира)](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem.01.ipynb)
