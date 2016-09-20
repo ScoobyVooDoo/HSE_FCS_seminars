@@ -27,7 +27,7 @@ __Семинар 1.__ Введение в машинное обучение и �
 * [Ipython notebook с семинара (автор: Зиннурова Эльвира)](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem.01.ipynb)
 
 __Семинар 2.__ Векторное дифференцирование и линейная регрессия
-* [Notebook](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Linear_regression_sem.ipynb)
+* [Notebook (автор: Кирилл Струминский)](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Linear_regression_sem.ipynb)
 
 __Семинар 3.__ Предобработка данных. Функции потерь в регрессии.
 * [Notebook](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/LinearRegressionSeminar.ipynb)
