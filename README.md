@@ -26,6 +26,7 @@ __Семинар 1.__ Введение в машинное обучение и �
 
 __Семинар 2.__ Векторное дифференцирование и линейная регрессия
 * [Notebook (автор: Кирилл Струминский)](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Linear_regression_sem.ipynb)
+* [Notebook с реализацией градиентного спуска](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/GD_example.ipynb)
 
 __Семинар 3.__ Предобработка данных. Функции потерь в регрессии.
 * [Notebook](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/LinearRegressionSeminar.ipynb)
