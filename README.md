@@ -34,3 +34,6 @@ __Семинар 2.__ Векторное дифференцирование и �
 __Семинар 3.__ Предобработка данных. Функции потерь в регрессии.
 * [Notebook](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/LinearRegressionSeminar.ipynb)
 * [Данные](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/cars.csv)
+
+__Семинар 4.__ Задача классификации: линейные методы и метрики качества.
+* [Ноутбук](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Seminar4.ipynb)
