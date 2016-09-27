@@ -37,3 +37,4 @@ __Семинар 3.__ Предобработка данных. Функции п
 
 __Семинар 4.__ Задача классификации: линейные методы и метрики качества.
 * [Ноутбук](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Seminar4.ipynb)
+* [Тест](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/test02-linregr.pdf)
