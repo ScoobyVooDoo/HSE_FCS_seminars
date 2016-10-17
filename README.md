@@ -38,3 +38,9 @@ __Семинар 3.__ Предобработка данных. Функции п
 __Семинар 4.__ Задача классификации: линейные методы и метрики качества.
 * [Ноутбук](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Seminar4.ipynb)
 * [Тест](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/test02-linregr.pdf)
+
+__Семинар 5.__ AUC_ROC, логистическая регрессия.
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2016-fall/seminars/sem05-linclass.pdf) (автор: Эльвира Зиннурова)
+
+__Семинар 6.__
+* [Ноутбук с демонстрацией аппроксимации.](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/%D0%90%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.ipynb)
