@@ -44,3 +44,9 @@ __Семинар 5.__ AUC_ROC, логистическая регрессия.
 
 __Семинар 6.__
 * [Ноутбук с демонстрацией аппроксимации.](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/%D0%90%D0%BF%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F.ipynb)
+
+__Семинары 7--9.__
+* Матеиалы на вики курса
+
+__Семинар 10.__ Композиции алгоритмов
+* [Обзор решений соревнования Avito](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/presentation_sem10.pdf)
