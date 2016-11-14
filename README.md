@@ -50,3 +50,5 @@ __Семинары 7--9.__
 
 __Семинар 10.__ Композиции алгоритмов
 * [Обзор решений соревнования Avito](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/presentation_sem10.pdf)
+* [Sofa.pdf](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sofa.pdf)
+* [Sofa_analytics.ipynb](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sofa_analytics.ipynb)
