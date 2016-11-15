@@ -49,6 +49,8 @@ __Семинары 7--9.__
 * Матеиалы на вики курса
 
 __Семинар 10.__ Композиции алгоритмов
+* [Основной ноутбук семинара](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Trees_parameters.ipynb)
+* [Xgboost.ipynb](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/xgboost.ipynb)
 * [Обзор решений соревнования Avito](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/presentation_sem10.pdf)
 * [Sofa.pdf](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sofa.pdf)
 * [Sofa_analytics.ipynb](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sofa_analytics.ipynb)
