@@ -57,3 +57,4 @@ __Семинар 10.__ Композиции алгоритмов
 
 __Семинар 11.__ Разброс соревнования
 * [Базовые рекомендации для соревнований](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem11_kaggle.pdf)
+* [Пример применения сверток](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/convolution_example.png)
