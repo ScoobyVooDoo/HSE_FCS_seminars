@@ -58,3 +58,7 @@ __Семинар 10.__ Композиции алгоритмов
 __Семинар 11.__ Разброс соревнования
 * [Базовые рекомендации для соревнований](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem11_kaggle.pdf)
 * [Пример применения сверток](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/convolution_example.png)
+
+__Семинар 12.__
+* [Ноутбук](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Sem12.ipynb)
+* [Ноутбук про обучение нейросетей (К. Неклюдов)](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem_11_nn.ipynb)
